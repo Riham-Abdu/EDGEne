@@ -1,5 +1,5 @@
 # TNBC Gene Expression & Drug Response Analysis
-#Overview
+# Overview
 This project explores heterogeneity in triple-negative breast cancer (TNBC) by analyzing gene expression data and drug response profiles. 
 The goal is to understand how molecular differences across TNBC samples relate to variability in drug sensitivity.The work was completed during a summer research internship and is organized into 
 two connected analyses. The first focuses on gene selection, identifying informative genes that capture variation across TNBC samples. The second examines drug sensitivity, exploring how TNBC samples 
